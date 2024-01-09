@@ -1,0 +1,51 @@
+{
+  "id": "4368188",
+  "name": "christmas",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12233440",
+      "name": "圣诞节-圣诞袜",
+      "font_class": "shengdanjie-shengdanwa",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "12233443",
+      "name": "圣诞节-礼物",
+      "font_class": "shengdanjie-liwu",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "12233449",
+      "name": "圣诞节-麋鹿",
+      "font_class": "shengdanjie-milu",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "12233450",
+      "name": "圣诞节-圣诞树",
+      "font_class": "shengdanjie-shengdanshu",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "12233454",
+      "name": "圣诞节-气球",
+      "font_class": "shengdanjie-qiqiu",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "12233455",
+      "name": "圣诞节-圣诞帽",
+      "font_class": "shengdanjie-shengdanmao",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}
